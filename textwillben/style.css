@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+html,body{
+    font-family:'Poppins',sans-serif;
+    color: #D34899;
+}
+
+.carousel img{
+    width: 100%;
+    height: 100%
+}
+
+.btn-primary{
+  background-color:#BEA4A2;
+  border: 1px solid#BEA4A2
+}
+.fun{
+  width:100%
+  margin-bottom:2rem;
+}
+
+footer{
+  background-color: #3f3f3f
+  color:#d5d5d5;
+  padding-top:2rem;
+}
+
+figure{
+  position:relative;
+  width: 100%;
+  height: 60%;
+  margin: 0;
+}
+
+
+#fixed{
+  background-image: url('图片/bizhi3.jpg');
+  height: 600px;
+ background-repeat: no-repeat;
+ background-attachment:fixed;
+ background-size: cover;
+ }
